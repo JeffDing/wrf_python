@@ -1,5 +1,9 @@
 # WRF后处理训练营课程
 
+## 学习网址
+
+[https://www.heywhale.com/home/competition/64478fec113e81a18dc70cd1](https://www.heywhale.com/home/competition/64478fec113e81a18dc70cd1)
+
 ## 活动背景
 
 气象数值模拟结果包含哪些变量？如何绘图分析？来一探究竟！
